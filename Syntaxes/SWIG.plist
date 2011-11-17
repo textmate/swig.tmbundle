@@ -7,10 +7,6 @@
 		<string>i</string>
 		<string>swg</string>
 	</array>
-	<key>foldingStartMarker</key>
-	<string>(/\*\*|%?\{\s*$)</string>
-	<key>foldingStopMarker</key>
-	<string>(\*\*/|^\s*%?\})</string>
 	<key>keyEquivalent</key>
 	<string>^~S</string>
 	<key>name</key>
